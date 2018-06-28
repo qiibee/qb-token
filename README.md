@@ -35,6 +35,15 @@ npm install
 ## Coverage
 Coverage has been disable because of conflicts with the different solidity versions of the contracts.
 
+
+## Deploy to Ropsten
+* Set environment variables:
+    * `ROPSTEN_PRIVATE_KEY` - private key of account you want to use to deploy with (omit `0x`)
+    * `INFURA_API_TOKEN` - your Infura API token
+* Update values in `migrations/2_token_migration.js` 
+    * update address with address you want to set as owner
+
+
 ## License
 
 qiibee Token is open source and distributed under the Apache License v2.0
