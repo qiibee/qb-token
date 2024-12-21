@@ -46,4 +46,4 @@ Coverage has been disable because of conflicts with the different solidity versi
 
 ## License
 
-qiibee Token is open source and distributed under the Apache License v2.0
+qiibee Token is open source and distributed under the [Apache License v2.0](https://github.com/qiibee/qb-token/blob/master/LICENSE)
